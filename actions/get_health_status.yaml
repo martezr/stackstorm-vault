@@ -1,0 +1,6 @@
+---
+name: get_health_status
+runner_type: python-script
+description: "Get the health status from Vault server"
+enabled: true
+entry_point: "get_health_status.py"

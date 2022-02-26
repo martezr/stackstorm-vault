@@ -32,6 +32,7 @@ You can also use dynamic values from the datastore. See the
 ## Actions
 
 * `delete` - Delete value from Vault server
+* `get_health_status` - Read health status from Vault server
 * `get_policy` - Read policy from Vault server
 * `is_initialized` - Read initialization status from Vault server
 * `list_policies` - List policies from Vault server
